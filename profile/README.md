@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://storage.googleapis.com/bucket-ml-medikan/medikan.png" />
 </p>
+medIkan is an android application about freshwater fish care that provides features for disease detection along with information on how to care for them.
+
+### Download Link
+Link: 
 
 ## Team ID: C241-PS423
 | Name  | Bangkit ID |

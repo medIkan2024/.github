@@ -1,5 +1,7 @@
 # medIkan
-![logo](https://storage.googleapis.com/bucket-ml-medikan/medikan.png)
+<p align="center">
+  <img src="https://storage.googleapis.com/bucket-ml-medikan/medikan.png" />
+</p>
 
 ## Team ID: C241-PS423
 | Name  | Bangkit ID |
